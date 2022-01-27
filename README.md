@@ -1,1 +1,1 @@
-Run MOBO_Run.m in each folder for the solution to the corresponding problem.
+Run MOBO_Run.m in each folder for obtaining the solutions to the corresponding problem.
