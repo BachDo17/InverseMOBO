@@ -1,3 +1,4 @@
+Reference: Do B, Ohsaki M (2022) Proximal-exploration multi-objective Bayesian optimization for inverse identification of cyclic constitutive law of structural steels. Structural and Multidisciplinary Optimization (submitted for publication).
 This repository consists of:
   1. Sect4_Test_Problem.zip: Test problem in Section 4.
   2. Sect51_Specimen.zip: Parameter identification problem in Section 5.1 (Requirement: Abaqus Student Edition installed).
