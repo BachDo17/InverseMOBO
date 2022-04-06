@@ -1,0 +1,4 @@
+*Plastic, hardening=COMBINED, datatype=PARAMETERS, number backstresses=1
+250, 7999.998, 79.2946
+*Cyclic Hardening, parameters
+250, 10, 12.5891
