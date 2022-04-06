@@ -1,2 +1,2 @@
-First column: Time history 
-Second column: Vertical displacement history [mm] of the cantilever free end
+
+First column of RH1, RH2, or RH3 is the time step while the second column is vertical displacement history [in mm] of the free end of the cantilever.
