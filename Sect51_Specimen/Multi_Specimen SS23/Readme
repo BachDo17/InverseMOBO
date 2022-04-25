@@ -1,1 +1,2 @@
-Run MOBO_Run.m for solutions to the problem. The problem was solved using Matlab 2017b with Global Optimization Toolbox and Abaqus Student Edition Ver. 2017.
+MOBO_Run.m: main program.
+Experimental data (available from the corresponding author by request) is required for running the program.
